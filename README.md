@@ -1,1 +1,1 @@
-# eks-count
+# leanign with count parameter
